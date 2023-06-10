@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/H4ZHfxs.webp"},
+  {"desc2":"The Black Russian cocktail is said to have originated in the late 1940s or early 1950s, and its creation is attributed to a Belgian bartender named Gustave Tops","photo2":"https://iili.io/H4ZH7Wb.jpg"},
+  {"desc3":"Tops was working at the Hotel Metropole in Brussels when he developed the cocktail","photo3":"https://iili.io/H4ZHBsf.jpg"},
+  {"desc4":"The drink's name is believed to have been inspired by two key ingredients","photo4":"https://iili.io/H4ZHFbn.webp"},
+  {"desc5":"The Black Russian is a simple yet elegant cocktail that requires only two main ingredients","photo5":"https://iili.io/H4ZHAbe.jpg"},
+  {"descd":"The Black Russian gained popularity for several reasons. Firstly, its simplicity and ease of preparation made it accessible to both professional bartenders and home enthusiasts. ","photod":"https://iili.io/H4ZHnf4.jpg"}
    ]
  
 }
